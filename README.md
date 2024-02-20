@@ -40,28 +40,28 @@ Siga estas instruções para obter uma cópia do projeto rodando no seu sistema 
 ### Instalação
 
 1. Clone o repositório
-   ```sh
-   git clone https://github.com/albert-claudio/fullbox.git
-
+ ```sh
+git clone https://github.com/albert-claudio/fullbox.git
+````
 2. instale os pacotes NPM necessários
 ```sh
 npm install
 ```
 ou
 ```
-yarn
+yarn install
 ```
-
-5.Inicie o previw do projeto:
+3.Em um novo terminal, inicie o cliente frontend:
 ```
 npm run dev
 ```
 
-Contribuindo
+## Contribuindo
+
 Contribuições são muito bem-vindas, seja melhorando a documentação, reportando bugs, ou sugerindo novas features. Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
-1.Faça o Fork do projeto
-2.Crie sua Feature Branch (git checkout -b feature/NewFeature)
-3.Commit suas mudanças (git commit -m 'Add some NewFeature')
-4.Push para a Branch (git push origin feature/NewFeature)
-5.Abra um Pull Request
+1.Faça o Fork do projeto<br/>
+2.Crie sua Feature Branch (git checkout -b feature/NewFeature)<br/>
+3.Commit suas mudanças (git commit -m 'Add some NewFeature')<br/>
+4.Push para a Branch (git push origin feature/NewFeature)<br/>
+5.Abra um Pull Request<br/>
