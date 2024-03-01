@@ -1,7 +1,7 @@
 # Fullbox ![download](https://github.com/albert-claudio/FullBox/assets/117605854/9960a9a5-a997-4df3-809d-e10c1ce1f90d)
 <hr/>
 
-<img src="https://albert-claudio.github.io/images/lolja.png"/> <br/> <hr/>
+<img src="https://albert-claudio.github.io/images/fullbox.png"/> <br/> <hr/>
 Bem-vindo ao FashionHub, um e-commerce moderno e intuitivo para amantes da moda. Desenvolvido com as tecnologias mais recentes, como React para o frontend, Node.js e Express.js no backend, 
 e JSON Web Tokens para autenticação segura, o FashionHub oferece uma experiência de compra online segura e agradável, com uma ampla variedade de roupas e acessórios.
 
