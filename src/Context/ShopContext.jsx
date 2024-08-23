@@ -21,7 +21,7 @@ const ShopContextProvider = (props) => {
         .then((data)=>setAll_Product(data))
 
         if(localStorage.getItem('auth-token')){
-            fetch('http://localhost:4000/getcart',{
+            fetch('https://fullbox-node.onrender.com/getcart',{
                 method:'POST',
                 headers:{
                     Accept: 'application/form-data',
